@@ -1,5 +1,8 @@
 # pandas-challenge
 Bootcamp pandas challenge week 4
+
+As a comment I did notice that in this challenge we were asked to take averages of averages which statistcally is not correct in my view. See the last summary by type. 
+
 The analysis of schools as per the attached script brought a number of interesting conclusions:
 
 I'll start with the "unexpected" and that is that the lower spending schools (budget per student)have a better pass % than the higher spending schools. Further data will need to be gathered to determine where the differences in spending are and if there are any trends.
